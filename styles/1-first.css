@@ -1,0 +1,18 @@
+.logo-container {
+   height: 60px;
+    background-color: #ffcb05;
+    display: flex;
+    align-items: center;
+    border-radius: 4px;
+}
+
+.hearder {
+    padding: 30px 16px 32px 16px;
+    background: linear-gradient(#868585, #ffffff);
+}
+
+@media only screen and (max-width: 600px)
+.logo {
+    margin-left: 2rem;
+}
+
